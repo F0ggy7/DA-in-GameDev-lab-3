@@ -155,5 +155,7 @@ behaviors:
 
 
 - После завершения обучения проверил работу модели 
+- 
+![lab3 2](https://user-images.githubusercontent.com/75094394/196775234-3cef04ca-8660-4590-ac8c-79504567afa1.gif)
 
 
