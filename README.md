@@ -140,3 +140,7 @@ behaviors:
     summary_freq: 10000
 
 ```
+- Запустил работу mlagents
+![cmd_dz69xjrNdA](https://user-images.githubusercontent.com/75094394/196770206-0bc5ee9e-37a7-43a3-a03e-42867bda3574.png)
+![lab3](https://user-images.githubusercontent.com/75094394/196770675-69ed99c7-5b12-4d41-bf69-ab5ed9bfd5d1.gif)
+
