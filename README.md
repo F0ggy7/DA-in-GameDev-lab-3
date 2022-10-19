@@ -142,5 +142,18 @@ behaviors:
 ```
 - Запустил работу mlagents
 ![cmd_dz69xjrNdA](https://user-images.githubusercontent.com/75094394/196770206-0bc5ee9e-37a7-43a3-a03e-42867bda3574.png)
+
+- 1 копия 
+
 ![lab3](https://user-images.githubusercontent.com/75094394/196770675-69ed99c7-5b12-4d41-bf69-ab5ed9bfd5d1.gif)
+
+- 27 копий
+
+![lab3 1](https://user-images.githubusercontent.com/75094394/196773234-9100cbfc-f495-4ae6-b46d-4890fd8fd5bb.gif)
+
+![cmd_r8QC003R91](https://user-images.githubusercontent.com/75094394/196774026-5ca26fdf-3cb5-45b2-bf52-697f49cd5c73.png)
+
+
+- После завершения обучения проверил работу модели 
+
 
