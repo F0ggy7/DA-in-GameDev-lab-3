@@ -37,7 +37,9 @@
 ### Реализовать систему машинного обучения в связке Python - Google-Sheets – Unity.
 
 -Создаю новый пустой 3D проект на Unity.
+
 -В созданный проект добавляю ML Agent, выбрав Window - Package
+
 -Далее запускаю Anaconda Prompt для установки пакетов mlagents 0.28.0 и torch 1.7.1
 
 
