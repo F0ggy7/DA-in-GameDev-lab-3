@@ -42,6 +42,10 @@
 
 -Далее запускаю Anaconda Prompt для установки пакетов mlagents 0.28.0 и torch 1.7.1
 
+-Создаю на сцене плоскость, куб и сферу по примеру.
+![Unity_FCWYeIIFxV](https://user-images.githubusercontent.com/75094394/196740496-474a0b81-4078-49bc-b5c0-5240a5f50358.png)
+
+
 
 
 
