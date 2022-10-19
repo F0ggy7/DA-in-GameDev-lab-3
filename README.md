@@ -107,7 +107,36 @@ public class RollerAgent : Agent
 
 ```
 
-- Объекту «сфера» добавиk компоненты Decision Requester, Behavior Parameters
+- Объекту «сфера» добавил компоненты Decision Requester, Behavior Parameters
 
 ![Unity_XfRxGu7vpZ](https://user-images.githubusercontent.com/75094394/196744263-04f7bd1d-5e21-4746-8496-a4e2f93e1d7e.png)
 
+- В корень проекта добавил файл конфигурации нейронной сети.
+
+```yaml
+
+behaviors:
+  RollerBall:
+    trainer_type: ppo
+    hyperparameters:
+      batch_size: 10
+      buffer_size: 100
+      learning_rate: 3.0e-4
+      beta: 5.0e-4
+      epsilon: 0.2
+      lambd: 0.99
+      num_epoch: 3
+      learning_rate_schedule: linear
+    network_settings:
+      normalize: false
+      hidden_units: 128
+      num_layers: 2
+    reward_signals:
+      extrinsic:
+        gamma: 0.99
+        strength: 1.0
+    max_steps: 500000
+    time_horizon: 64
+    summary_freq: 10000
+
+```
